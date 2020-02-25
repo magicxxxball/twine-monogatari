@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to MagicxxxBall's twine-monogatari Visual Novel Project </h1>
+<h1 align="center">Welcome to twine-monogatari 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/haroldo-ok/twine-monogatari#readme">
@@ -7,17 +7,17 @@
   <a href="https://github.com/haroldo-ok/twine-monogatari/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
+  <a href="https://github.com/haroldo-ok/twine-monogatari/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
+  </a>
+  <a href="https://twitter.com/Haroldo0k">
+    <img alt="Twitter: Haroldo0k" src="https://img.shields.io/twitter/follow/Haroldo0k.svg?style=social" target="_blank" />
+  </a>
 </p>
 
-This Visual Novel Project uses the story format from [@Haroldo0k](https://github.com/haroldo-ok/twine-monogatari) that allows one to use [Twine](https://twinery.org/) to create Visual Novels for the [Monogatari](http://monogatari.io) engine.
+This Twine 2 story format allows one to use [Twine](https://twinery.org/) to create Visual Novels for the [Monogatari](http://monogatari.io) engine.
 
-
-# Important Links:
-
-##
-
-
-# Original Documentation:
+Based on [Twison](https://github.com/lazerwalker/twison).
 
 ## Demo
 
@@ -185,4 +185,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Haroldo O. Pinheiro](https://github.com/haroldo-ok).<br />
 This project is [MIT](https://github.com/haroldo-ok/twine-monogatari/blob/master/LICENSE) licensed.
-
